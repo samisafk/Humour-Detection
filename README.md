@@ -43,5 +43,4 @@ The Humor Detection App is a machine learning-based project that classifies user
 
 ---
 
-Feel free to contribute to this project or share feedback to improve it further!
 
